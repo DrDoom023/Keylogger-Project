@@ -20,6 +20,7 @@ For future projects, I plan to enhance the keylogger to make it more advanced an
 If you have any feedback or suggestions, please feel free to reach out to me on Discord.  
 
 Steps to Follow:
+
 Step 1: Start the HTTP server
 python3 -m http.server 8080
 
